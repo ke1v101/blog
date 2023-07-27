@@ -1,0 +1,100 @@
+<html>
+<head> 
+<title> Survival Guide </title>
+</head>
+
+<style>
+body {
+background-color: #333333;
+}
+div {
+text-align: center;
+background-color: black;
+color: white;
+margin: 0;
+font-weight: bold;
+}
+h1 {
+font-size: 150%;
+color: white;
+font-weight: bold;
+}
+h2 {
+font-size: 120%;
+color: white;
+padding-left: 30px;
+}
+a:link, a:visited {
+  background-color: Black;
+text-align: right;
+  color: White;
+  text-decoration: none;
+}
+a:hover, a:active {
+  background-color: #1a1a1a;
+}
+</style>
+</head>
+
+<body>
+<div style="font-size: 400%; padding-top: 50px;"> Minecraft Survival Guide! </div>
+<div style="font-size: 150%; margin: 0; padding-bottom: 60px;"> For Beginners </div>
+
+<p> <h1 style="font-size: 200%; display: inline-block; padding-left: 30px; margin: 0; padding-top: 30px;">
+Starting Out in Survival</h1>
+
+<p style="margin: 0; text-align: right; padding-right: 30px;"><a href="Assignment.html" style="text-align: right; padding: 20px 70px;">
+Back to Homepage </a> </p>
+
+<img src="minecraft shader.jpg" height="400" width="800" style="padding-left: 30px; padding-top: 10px;">
+
+<p> <h1 style="font-size: 150%; display: inline-block; padding-left: 30px; margin: 0; padding-top: 30px;">
+Punch Some Wood</h1> </p>
+
+<img src="1punch wood.png" height="500" width="800" style="padding-left: 30px; padding-top: 10px;">
+<p> <h2 style="width: 800px; height: 120px; font-weight: normal;">
+The first thing you need to do is gather some wood by holding left click. 
+Wood is an essential material in the world of Minecraft. It is used for crafting many 
+items throughout your minecraft journey. Any wood would do. Either oak, birch, spruce, jungle, dark oak, is 
+all fine. </h2>
+
+<p> <h1 style="font-size: 150%; display: inline-block; padding-left: 30px; margin: 0; padding-top: 30px;">
+Craft Some Planks with the Wood</h1> </p>
+
+<img src="2craft planks.png" height="500" width="800" style="padding-left: 30px; padding-top: 10px;">
+<p> <h2 style="width: 800px; height: 120px; font-weight: normal;">
+Now open your inventory using the E key. Place the wood block in the 2x2 grid located on the top right as shown above.
+Planks are essential for building and crafting weapons and tools. </h2>
+
+<p> <h1 style="font-size: 150%; display: inline-block; padding-left: 30px; margin: 0; padding-top: 30px;">
+Make a Crafting Table</h1> </p>
+
+<img src="3crafting table.png" height="500" width="800" style="padding-left: 30px; padding-top: 10px;">
+<p> <h2 style="width: 800px; height: 120px; font-weight: normal;">
+Place the four planks back into the 2x2 grid as shown abvove. This creates a crafting table.
+Crafting tables creates a 3x3 grid allowing for more crafting recipes. </h2>
+
+<p> <h1 style="font-size: 150%; display: inline-block; padding-left: 30px; margin: 0; padding-top: 30px;">
+Craft some Sticks </h1> </p>
+
+<img src="4craft sticks.png" height="500" width="800" style="padding-left: 30px; padding-top: 10px;">
+<p> <h2 style="width: 800px; height: 120px; font-weight: normal;">
+Exit your inventory by pressing ESC. Select the crafting table with numbers or scrollwheel.
+Right-click to place down the table. Now right click again and you should see a 3x3 crafting grid
+instead of 2. Place two planks on top of each other shown above to craft sticks. </h2>
+
+<p> <h1 style="font-size: 150%; display: inline-block; padding-left: 30px; margin: 0; padding-top: 30px;">
+Make a Wooden Pickaxe </h1> </p>
+
+<img src="5craft pickaxe.png" height="500" width="800" style="padding-left: 30px; padding-top: 10px;">
+<p> <h2 style="width: 800px; height: 120px; font-weight: normal;">
+Obtain enough wood to use the recipe above. Place three planks across the top and two sticks down the middle.
+And you have yourself a wooden pickaxe to mine stone.</h2>
+
+<p> <h1 style="font-size: 150%; display: inline-block; padding-left: 30px; margin: 20px 0px;">
+This is the end of the Survival Beginners Guide. In future, I can finish this guide. For now, thanks for reading my blog. </h1> </p>
+
+<p style="margin: 0; padding-left: 30px;"><a href="Assignment.html" style="text-align: right; padding: 20px 70px;">
+Back to Homepage </a> </p>
+
+</html>

@@ -1,0 +1,72 @@
+<html>
+<head>
+
+<title> Kelvin's Blog </title>
+<style>
+body {
+background-color: #333333;
+}
+div {
+text-align: center;
+background-color: black;
+color: white;
+margin: 0;
+font-weight: bold;
+}
+h1 {
+font-size: 150%;
+color: white;
+font-weight: bold;
+}
+h2 {
+font-size: 120%;
+color: white;
+padding-left: 30px;
+}
+a:link, a:visited {
+  background-color: Black;
+  color: White;
+  text-align: center;
+  text-decoration: none;
+}
+a:hover, a:active {
+  background-color: #1a1a1a;
+}
+</style>
+</head>
+
+<body>
+
+<div style="font-size: 400%; padding-top: 50px;"> Welcome to Kelvin Shen's Blog!</div>
+<div style="font-size: 150%; margin: 0; padding-bottom: 60px;"> On here, I will be teaching you a bit about myself and Minecraft!
+<br> Enjoy! </div>
+
+
+
+
+<p> <h1 style="display: inline-block; padding-left: 30px; margin: 0; padding-top: 30px;"> About Me 
+</h1> 
+<a href="https://ivanhoe.com.au/" target="_self" style="padding: 0px 0px;"> <img src="Ivanhoe Logo.png" Height="400" width="400" align="right" style="padding-right: 50px; padding-top: 20px;">
+</a> </p>
+
+<p> 
+<h2 style="width: 1000px; height: 120px; font-weight: normal;">
+Hi there! My name is Kelvin from 7c! I am the creator of this small website. I really enjoyed making this website because when I was little, I use to love coding!
+But after a while, I lost interest like most things. It is great to be back to some HTML! Other things I also like are Drawing, Animation and Minecraft. I have a YouTube channel where I post all my animations.
+Violin is the instument I play all the time. I also enjoy Math and some sports such as Table Tennis, Badminton and Tee-ball. 
+</h2>
+
+<p> <h1 style="font-weight: bold; padding-left: 30px; padding-bottom: 30px;"> Minecraft Guides!
+</h1> </p>
+
+<p style="padding-left: 30px; margin: 0;">
+<a href="Assignment2.html" style="padding: 20px 70px;">
+Survival Guides! </a>
+<a href="Assignment3.html" style="padding: 20px 70px;">
+Building Guides! </a>
+<a href="Assignment4.html" style="padding: 20px 70px;">
+Combat Guides! </a>
+
+
+</body>
+</html>
